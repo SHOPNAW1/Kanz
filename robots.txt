@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /search.html
-Sitemap: https://shopnaw1.github.io/kanz/sitemap.xml
+Sitemap: https://shopnaw1.github.io/Kanz/sitemap.xml
